@@ -1,0 +1,37 @@
+/* General */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #b8e7f7;
+}
+
+p {
+    font-family: Times New Roman;
+}
+
+img {
+    height: 300px;
+}
+
+a:hover {
+    color: green;
+}
+
+h1, h2, h4 {
+    font-family: Courgette;
+}
+
+ol {
+    list-style: upper-roman;
+}
+
+.art {
+    list-style: circle;
+}
+
+div p {
+    margin-left: 150px;
+}
