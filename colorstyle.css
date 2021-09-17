@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: gray;
+    background-color: rgb(216, 123, 169);
+}
+
+h2, h3 {
+    color: pink;
+    background-color: rgb(175, 171, 171);
+}
+
+h4 {
+    background-color: yellow;
+}
+
+ol {
+    text-decoration: underline;
+    background-color: rgb(71, 207, 231);
+    flex: auto;
+    padding-left: 80px;
+}
+
+ul {
+    padding: 0;
+}
+
+footer {
+    color: rgb(91, 169, 243);
+}
